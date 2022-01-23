@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💬 Ask me about development for your app, AI/ML models or Web3 crypto development.  And!  Any creative writing if needed.
+
+📫 How to reach me: nick@caputodev.com, any time day or night.
+
 <!--
 **nickcaputo/nickcaputo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
